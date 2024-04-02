@@ -3,7 +3,7 @@ const violeta = document.getElementById('violeta');
 const naranja = document.getElementById('naranja');
 const verde = document.getElementById('verde');
 const startGame = document.getElementById('btnEmpezar');
-const LAST_LEVEL = 5;
+const LAST_LEVEL = 2;
 class Juego{
   constructor() {
     // alert('Metrocidad');
